@@ -4,34 +4,31 @@ Exploring Different Forms of Infinities and Their Implications
 
 ## Overview
 
-This project is dedicated to the exploration and understanding of various aspects of infinity in mathematics. It includes implementations of Cantor’s diagonalization argument, studies on countable and uncountable sets, and other related mathematical problems.
+This project is dedicated to the exploration and understanding of various aspects of infinity in mathematics. It collects notes on Cantor's diagonalization argument, the study of countable and uncountable sets, and other related mathematical problems.
 
 ## Contents
 
 - **Introduction to Infinity**: Concepts of countable and uncountable infinities.
-- **Cantor’s Diagonalization**: Proof and code implementation.
+- **Cantor's Diagonalization**: Proof and code implementation.
 - **Cardinality and Aleph Numbers**: Exploring the sizes of infinite sets.
-- **Power Sets**: Understanding the implications of Cantor’s theorem on power sets.
-- **Applications in Logic and Computer Science**: Gödel’s Incompleteness Theorems, Turing’s Halting Problem, and complexity theory.
+- **Power Sets**: Understanding the implications of Cantor's theorem on power sets.
+- **Applications in Logic and Computer Science**: Gödel's Incompleteness Theorems, Turing's Halting Problem, and complexity theory.
 - **Code Examples**: Practical examples and implementations in Rust.
 
-## Getting Started
+## Status
 
-### Prerequisites
+This repository is an evolving set of notes and small experiments. It currently collects the conceptual overview and outline above. Code implementations, including the Rust examples for Cantor's diagonalization and related arguments, are planned and in progress, so there is no `src/` directory to build yet.
 
-- Rust (installation instructions can be found at [rust-lang.org](https://www.rust-lang.org/))
+To follow along or clone the repository:
 
-### Running the Code
+```sh
+git clone https://github.com/iteba15/Infinity-explorer.git
+cd Infinity-explorer
+```
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/infinity-explorer.git
-   cd infinity-explorer
-2. Compile and run the Rust code:
-   rustc src/main.rs
-   ./main
+## Author
 
-## Contributing
-Contributions are welcome! Please feel free to submit issues and pull requests.
+**Allan Kiplagat Iteba** (GitHub [@iteba15](https://github.com/iteba15)), BSc Astrophysics & Space Science, University of Nairobi.
 
-
+- LinkedIn: *(link to be added)*
+- ResearchGate: *(link to be added)*
